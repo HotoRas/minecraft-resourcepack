@@ -3,6 +3,8 @@
 이 리소스팩은 마인크래프트 내 글꼴 중 미할당 유니코드 영역을 이용할 수 있도록   
 하는 테스트 리소스팩입니다.
 
+리소스팩 간단 정보: [pack.mcmeta](./pack.mcmeta)
+
 함께 제공된 [폰트](./assets/minecraft/font/font.ttf)는 공공누리 저작물로써, [font-license](./font-license)에서 상세 정보를 확인하실   
 수 있습니다.
 
