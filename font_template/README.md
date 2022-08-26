@@ -5,8 +5,8 @@
 
 리소스팩 간단 정보: [pack.mcmeta](./pack.mcmeta)
 
-함께 제공된 [폰트](./assets/minecraft/font/font.ttf)는 공공누리 저작물로써, [font-license](./font-license)에서 상세 정보를 확인하실   
-수 있습니다.
+함께 제공된 [폰트](./assets/minecraft/font/font.ttf)는 공공누리 저작물로써,   
+[font-license](./font-license)에서 상세 정보를 확인하실 수 있습니다.
 
 [textures/font](./assets/minecraft/textures/font) 하에 있는 PNG 파일은 템플릿 파일입니다.   
 가로 16px, 세로 16px의 글자를 이용하며, 미사용 영역의 폰트를 상정하였습니다.   
